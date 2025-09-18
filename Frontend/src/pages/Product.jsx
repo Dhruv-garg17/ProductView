@@ -1,9 +1,9 @@
 import React, { useEffect, useState, useMemo } from "react";
-import "../styles/Product.css";
-import Pagination from "../components/Pagination";
+import "../styles/product.css";
+import Pagination from "../components/pagination";
 import ProductDetail from "../components/ProductDetail";
 import { motion, AnimatePresence } from "framer-motion";
-import Card from "../components/Card";
+import Card from "../components/card";
 
 const PRODUCTS_API = "https://dummyjson.com/products";
 const CATEGORIES_API = "https://dummyjson.com/products/categories";

@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/Card.css";
+import "../styles/card.css";
 import { motion } from "framer-motion";
 
 const Card = ({ data, onOpen }) => {
