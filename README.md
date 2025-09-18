@@ -5,7 +5,7 @@ A **responsive web application** built with React (Vite) that fetches products f
 ---
 ## 🔗 Live Demo
 
-👉 [View Live Demo]((https://product-view-hcry.vercel.app/))  
+👉 [View Live Demo](https://product-view-hcry.vercel.app/) 
 
 ---
 
